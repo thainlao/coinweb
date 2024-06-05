@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Anton", sans-serif;
+}
+
+body{
+  overflow: hidden;
+}
+
+::selection {
+  background-color: #f200b2;
+  color: black;
+}
